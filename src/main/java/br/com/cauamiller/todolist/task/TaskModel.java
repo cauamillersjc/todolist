@@ -2,6 +2,7 @@ package br.com.cauamiller.todolist.task;
 
 import java.util.UUID;
 import java.time.LocalDateTime;
+
 import org.hibernate.annotations.CreationTimestamp;
 
 import jakarta.persistence.Column;
